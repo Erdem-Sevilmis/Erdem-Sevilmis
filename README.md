@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erdem-Sevilmis I'm 19 years old and currently living in Vienna Austria. 
--    I am attending the University of Applied Sciences Technikum Vienna as a dual student. 
--    At the same time, I am a proud member of the George team. #WeAreGeorge
+I am attending the University of Applied Sciences Technikum Vienna as a dual student. 
+At the same time, I am a proud member of the George team. #WeAreGeorge
 
 - 👀 I’m interested in programming 💻, gaming 🎮 and playing ball sports 🏐🏀⚽ :^)
 
