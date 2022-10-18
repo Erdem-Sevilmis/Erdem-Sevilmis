@@ -1,4 +1,4 @@
-👋 Hi, I’m @Erdem-Sevilmis I'm 19 years old and currently living in Vienna Austria. 
+👋 Hi, I’m @Erdem-Sevilmis I'm 20 years old and currently living in Vienna Austria. 
    I am attending the University of Applied Sciences Technikum Vienna as a dual student. 
    At the same time, I am a proud member of the George team. #WeAreGeorge
 
