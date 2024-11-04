@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is @Erdem-Sevilmis I'm 21 years old and currently living in Vienna Austria. I'm enrolled in a dual education program at the University of Applied Sciences Technikum Vienna, while also working part-time at Erste Digital as a member of the George Team. This means I'm balancing both academic and professional commitments, and gaining practical experience as a software developer through my work with the George Team.
+My name is @Erdem-Sevilmis I'm 22 years old and currently living in Vienna Austria. I'm enrolled in my masters degree program at the University of Applied Sciences Technikum Vienna, while also working part-time at Erste Digital as a member of the George Team. This means I'm balancing both academic and professional commitments, and gaining practical experience as a software developer through my work with the George Team.
 
 - [Visit my website]() for my coolest projects. (Coming Soon) 😎🚀
 
