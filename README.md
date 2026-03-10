@@ -4,7 +4,6 @@ My name is @Erdem-Sevilmis I'm 23 years old and currently living in Vienna Austr
 
 - [Visit my website]() for my coolest projects. (Coming Soon) 😎🚀
 
-- If you want to contact me, add me on any of my socials and DM me! :)
+- If you want to contact me, add me on LinkedIn and DM me  or write me an Email! :)
 
-### [](https://github.com/Erde-Sevilmis#stats)Stats
-![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdem-Sevilmis&hide=contribs,prs)
+[LinkedIn](https://www.linkedin.com/in/erdem-sevilmi%C5%9F-b38849212/), Email: Erdem.sevilmis@outlook.com
