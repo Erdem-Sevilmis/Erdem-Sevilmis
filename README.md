@@ -7,4 +7,4 @@ My name is @Erdem-Sevilmis I'm 23 years old and currently living in Vienna Austr
 - If you want to contact me, add me on any of my socials and DM me! :)
 
 ### [](https://github.com/Erde-Sevilmis#stats)Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erdem-Sevilmis&layout=compact&theme=dracula&hide=batchfile)](https://github.com/anuraghazra/github-readme-stats) 
+![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdem-Sevilmis&hide=contribs,prs)
