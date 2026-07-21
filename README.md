@@ -1,9 +1,31 @@
-## Hi there 👋
+### Hi there 👋, I'm Erdem Sevilmis
 
-My name is @Erdem-Sevilmis I'm 23 years old and currently living in Vienna Austria. I'm enrolled in my masters degree program at the University of Applied Sciences Technikum Vienna, while also working at Erste Digital as a member of the George Team. This means I'm balancing both academic and professional commitments, and gaining practical experience as a software developer through my work with the George Team.
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Fullstack-blue?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Vienna-Austria-red?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/M.Sc.-Software%20Engineering-success?style=flat-square" alt="Degree">
+</p>
 
-- [Visit my website]() for my coolest projects. (Coming Soon) 😎🚀
+Fullstack Software Engineer passionate about scalable web architectures, enterprise solutions, and smart IoT systems. Fresh M.Sc. graduate from FH Technikum Wien, currently working at **FMA (Financial Market Authority)**, and formerly at **Erste Digital**, where I contributed to **George** and **George Business**—powering millions of users across CEE's leading banking platform.
 
-- If you want to contact me, add me on LinkedIn and DM me  or write me an Email! :)
+---
 
-[LinkedIn](https://www.linkedin.com/in/erdem-sevilmi%C5%9F-b38849212/), Email: Erdem.sevilmis@outlook.com
+### 💻 Tech Stack & Tools
+* **Languages & Backend:** C#, .NET, Kotlin, Java, Spring Boot, Microservices
+* **Enterprise & Workflow:** Nintex K2, Process Automation
+* **Frontend:** TypeScript, Angular / React, Modern JavaScript
+* **Architecture & DevOps:** REST APIs, Docker, CI/CD, Enterprise Tooling
+* **IoT & Automation:** Home Assistant, ESP32, Zigbee
+
+---
+
+### 🚀 Recent Projects & Highlights
+* **[Nouta](https://github.com/Erdem-Sevilmis):** An independently developed, offline-first fitness tracking app powered by InstantDB.
+* **Integrity Shield (Master's Thesis):** Developed as part of my M.Sc. in Software Engineering at FH Technikum Wien, focusing on robust security and system integrity.
+* **Smart Home:** Complex automations and custom integrations using Home Assistant and ESP32.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [Erdem Sevilmis](https://www.linkedin.com/in/erdem-sevilmi%C5%9F-b38849212/)
+* **E-Mail:** Erdem.sevilmis@outlook.com
